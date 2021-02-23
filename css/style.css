@@ -1,0 +1,155 @@
+body{
+	margin: 0;
+	padding: 0px;
+}
+
+.logo-img{
+	max-width: 100%;
+	height: 67px;
+}
+
+.navbar-expand-lg{
+	padding-right: 50px !important;
+	padding-left: 50px !important;
+}
+
+.nav-link{
+	color: #454545;
+}
+
+.btn-outline-success{
+	border: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-radius: 50px;
+	color: white;
+	background-color: #462686;
+}
+
+.body-space{
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+.background-color{
+	background-color: #FEFEFE;
+}
+
+.middle-bgcolor{
+	background-color: #FFFFFF !important;
+}
+
+.center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.marginTopTen{
+	margin-top: 10rem;
+}
+
+.marginTopFive{
+	margin-top: 5rem;
+}
+
+.marginBottom{
+	margin-bottom: 3rem;
+}
+
+p{
+	word-wrap: normal;
+}
+
+.landing-img{
+	max-width: 108%;
+	width: 104%;
+}
+
+.startTrial{
+	border: none;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 25px;
+	padding-left: 25px;
+	border-radius: 50px;
+	color: white;
+	background-color: #462686;
+}
+
+.line-height2{
+	line-height: 2px;
+}
+
+.mt-10{
+	margin-top: 5rem;
+}
+
+.mt-20{
+	margin-top: 10rem;
+}
+
+.mt-15{
+	margin-top: 100px;
+}
+
+.clients{
+	max-width: 100%;
+}
+
+.borderbox{
+	border: 1px solid black;
+	border-radius: 10px;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.rectangle{
+	max-width: 100%;
+	width: 90%;
+}
+
+.customer{
+	max-width: 100%;
+	width: 80%;
+}
+
+.groupimg{
+	max-width: 100%;
+}
+
+/*styles for contactsales*/
+body{
+	background-color: #F6F6F6;
+}
+
+.h6-heading{
+	text-transform: uppercase;
+	font-size: 13px !important;
+}
+
+.p-content{
+	font-size: 12px;
+	margin-top: 20px;
+}
+
+.p-subcontent{
+	line-height: 0.5px;
+}
+
+.borderbox{
+	border: 1px solid white;
+	background-color: #ffffff;
+	box-sizing: border-box;
+	padding-top: 50px;
+	padding-right: 70px;
+	padding-left: 70px;
+	padding-bottom: 50px;
+	margin-bottom: 25px;
+}
+
+.form-control{
+	border: 1px solid #000000;
+}
