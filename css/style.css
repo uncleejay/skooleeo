@@ -153,3 +153,11 @@ body{
 .form-control{
 	border: 1px solid #000000;
 }
+
+/*sign in*/
+.centerbody{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 7rem;
+}
