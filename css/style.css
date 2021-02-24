@@ -161,3 +161,9 @@ body{
 	align-items: center;
 	margin-top: 7rem;
 }
+
+.navbar-toggler{
+	background-color: #462686 !important;
+	border: 1px solid #462686 !important;
+
+}
